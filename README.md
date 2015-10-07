@@ -1,5 +1,5 @@
 # Conway's Game of Life
-Conway's Game of Life for CS 420
+Conway's Game of Life for Parallel Programming Course
 
 ## Description
 The purpose of this program was to make use of the MPI library in C.
